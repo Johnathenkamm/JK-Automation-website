@@ -116,7 +116,7 @@ export function ProjectSection() {
               </div>
               <div className="text-left">
                 <h3 className="text-2xl font-bold text-secondary-900 dark:text-white mb-1">
-                  $500 - $2,000
+                  $250 - $1,000
                 </h3>
                 <p className="text-secondary-600 dark:text-secondary-400">
                   per project or montly payment
