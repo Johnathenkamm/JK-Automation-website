@@ -1,5 +1,5 @@
 import React from 'react';
-import { ArrowDown, Mail } from 'lucide-react';
+import { ArrowDown, Mail, Phone } from 'lucide-react';
 import { ButtonLink } from '../components/ButtonLink';
 
 export function HeroSection() {
@@ -28,12 +28,16 @@ export function HeroSection() {
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start mb-12">
             <ButtonLink href="https://creator.voiceflow.com/prototype/67412a648c3481a78004030d" variant="primary">
-              See my automation
+              See my chatbot
             </ButtonLink>
             <ButtonLink href="#contact" variant="outline">
               <Mail className="mr-2 h-5 w-5" />
               Contact Me
             </ButtonLink>
+            <div className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-accent-600 to-accent-700 text-white rounded-lg shadow-lg">
+              <Phone className="mr-2 h-5 w-5" />
+              Call my AI assistant: (830) 240 8461
+            </div>
           </div>
           
           <div className="hidden md:flex items-center justify-center md:justify-start">
