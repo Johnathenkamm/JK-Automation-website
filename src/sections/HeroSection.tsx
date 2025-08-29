@@ -16,7 +16,7 @@ export function HeroSection() {
         {/* Text Content */}
         <div className="order-2 md:order-1 text-center md:text-left">
           <h1 className="text-3xl md:text-5xl lg:text-6xl font-bold mb-4 text-secondary-900 dark:text-white leading-tight">
-            Hi, I'm <span className="text-primary-600 dark:text-primary-400">Johnathen Kammer</span>
+            Hi, I'm <span className="text-primary-600 dark:text-primary-400">Johnathen Kammer</span>, a local of San Antonio. 
           </h1>
           <p className="text-xl md:text-2xl text-secondary-700 dark:text-secondary-300 mb-2">
             AI Automation Builder
