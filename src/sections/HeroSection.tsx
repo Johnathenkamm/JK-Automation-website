@@ -56,7 +56,7 @@ export function HeroSection() {
           <div className="relative">
             <div className="w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden border-4 border-white dark:border-secondary-700 shadow-xl">
               <img 
-                src="/20250620_133803.jpg" 
+                src="/1000011087.jpg" 
                 alt="Johnathen Kammer - Professional headshot" 
                 className="w-full h-full object-cover"
               />
